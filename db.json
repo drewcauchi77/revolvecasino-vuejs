@@ -1,0 +1,100 @@
+{
+    "games": [
+      {
+        "id": "1",
+        "name": "Gonzo's Quest",
+        "code": "GME001",
+        "creation_date": "28/04/2021",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
+        "creator": "Puzzlez Ent."
+      },
+      {
+        "id": "2",
+        "name": "Starburst",
+        "code": "GME002",
+        "creation_date": "27/04/2021",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
+        "creator": "Puzzlez Ent."
+      },
+      {
+        "id": "3",
+        "name": "A Star is Born",
+        "code": "GME003",
+        "creation_date": "28/04/2021",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
+        "creator": "Puzzlez Ent."
+      },
+      {
+        "id": "4",
+        "name": "Hotline",
+        "code": "GME004",
+        "creation_date": "26/04/2021",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
+        "creator": "Puzzlez Ent."
+      },
+      {
+        "id": "5",
+        "name": "Sakura Fortune",
+        "code": "GME005",
+        "creation_date": "25/04/2021",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
+        "creator": "Puzzlez Ent."
+      },
+      {
+        "id": "6",
+        "name": "Fortune Teller",
+        "code": "GME006",
+        "creation_date": "30/04/2021",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
+        "creator": "Puzzlez Ent."
+      },
+      {
+        "id": "7",
+        "name": "Rain Brew",
+        "code": "GME007",
+        "creation_date": "03/04/2021",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
+        "creator": "Puzzlez Ent."
+      },
+      {
+        "id": "8",
+        "name": "Panther Queen",
+        "code": "GME008",
+        "creation_date": "03/03/2021",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
+        "creator": "Puzzlez Ent."
+      },
+      {
+        "id": "9",
+        "name": "Queen of Hearts",
+        "code": "GME009",
+        "creation_date": "01/01/2020",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
+        "creator": "Puzzlez Ent."
+      },
+      {
+        "id": "10",
+        "name": "Kambrewballa",
+        "code": "GME010",
+        "creation_date": "04/04/2021",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
+        "creator": "Puzzlez Ent."
+      },
+      {
+        "id": "11",
+        "name": "Gem Rocks",
+        "code": "GME011",
+        "creation_date": "01/12/2020",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
+        "creator": "Puzzlez Ent."
+      },
+      {
+        "id": "12",
+        "name": "Wolf Gold",
+        "code": "GME012",
+        "creation_date": "27/02/2021",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
+        "creator": "Puzzlez Ent."
+      }
+    ]
+  }
