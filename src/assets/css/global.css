@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    background-color: #222233;
+    
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1460px;
+    padding: 40px 0px;
+}
+
+h1, h2, h3, h4, h5, h6, ul, li, a, span{
+    color: #AACCFF;
+    font-family: 'Cairo', sans-serif;
+    margin: 0px;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+@media only screen and (min-width: 998px){
+    .container{
+        padding: 60px 0px;
+    }
+}
