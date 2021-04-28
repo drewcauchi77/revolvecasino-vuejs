@@ -5,7 +5,6 @@
         "name": "Gonzo's Quest",
         "code": "GME001",
         "creation_date": "28/04/2021",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
         "creator": "Puzzlez Ent."
       },
       {
@@ -13,7 +12,6 @@
         "name": "Starburst",
         "code": "GME002",
         "creation_date": "27/04/2021",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
         "creator": "Puzzlez Ent."
       },
       {
@@ -21,7 +19,6 @@
         "name": "A Star is Born",
         "code": "GME003",
         "creation_date": "28/04/2021",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
         "creator": "Puzzlez Ent."
       },
       {
@@ -29,7 +26,6 @@
         "name": "Hotline",
         "code": "GME004",
         "creation_date": "26/04/2021",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
         "creator": "Puzzlez Ent."
       },
       {
@@ -37,7 +33,6 @@
         "name": "Sakura Fortune",
         "code": "GME005",
         "creation_date": "25/04/2021",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
         "creator": "Puzzlez Ent."
       },
       {
@@ -45,7 +40,6 @@
         "name": "Fortune Teller",
         "code": "GME006",
         "creation_date": "30/04/2021",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
         "creator": "Puzzlez Ent."
       },
       {
@@ -53,7 +47,6 @@
         "name": "Rain Brew",
         "code": "GME007",
         "creation_date": "03/04/2021",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
         "creator": "Puzzlez Ent."
       },
       {
@@ -61,7 +54,6 @@
         "name": "Panther Queen",
         "code": "GME008",
         "creation_date": "03/03/2021",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
         "creator": "Puzzlez Ent."
       },
       {
@@ -69,7 +61,6 @@
         "name": "Queen of Hearts",
         "code": "GME009",
         "creation_date": "01/01/2020",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
         "creator": "Puzzlez Ent."
       },
       {
@@ -77,7 +68,6 @@
         "name": "Kambrewballa",
         "code": "GME010",
         "creation_date": "04/04/2021",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
         "creator": "Puzzlez Ent."
       },
       {
@@ -85,7 +75,6 @@
         "name": "Gem Rocks",
         "code": "GME011",
         "creation_date": "01/12/2020",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
         "creator": "Puzzlez Ent."
       },
       {
@@ -93,7 +82,6 @@
         "name": "Wolf Gold",
         "code": "GME012",
         "creation_date": "27/02/2021",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et urna accumsan, finibus ipsum id, tempor mi. Sed id lobortis ipsum.",
         "creator": "Puzzlez Ent."
       }
     ]

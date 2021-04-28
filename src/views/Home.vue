@@ -1,6 +1,7 @@
 <template>
     <div class="container">
-        <Games :games="games"/>
+        <input type="text" v-model="search" placeholder="Search title.."/>
+        <Games :games="filteredGames"/>
     </div>
 </template>
 
@@ -14,6 +15,7 @@ export default {
     },
     data() {
         return {
+            search: '',
             games: []
         }
     },
@@ -21,12 +23,19 @@ export default {
         async fetchGames() {
             const res = await fetch('api/games')
             const data = await res.json()
-            console.log(data)
+            
             return data
         }
     },
     async created() {
         this.games = await this.fetchGames()
+    },
+    computed: {
+        filteredGames() {
+            return this.games.filter(game => {
+                return game.name.toLowerCase().includes(this.search.toLowerCase())
+            })
+        }
     }
 }
 </script>
