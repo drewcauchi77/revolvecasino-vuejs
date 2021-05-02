@@ -1,16 +1,18 @@
 <template>
     <div class="container">
-        <input type="text" v-model="search" placeholder="Search title.."/>
+        <Search :search="search" v-model="search"/>
         <Games :games="filteredGames"/>
     </div>
 </template>
 
 <script>
+import Search from '../components/Search'
 import Games from '../components/Games'
 
 export default {
     name: 'Home',
     components: {
+        Search,
         Games
     },
     data() {

@@ -1,12 +1,11 @@
 <template>
-    <div class="game-image">
-        <img :src="require(`@/assets/images/${game.code}.jpg`)">
-    </div>
-
     <router-link :to="'/casino/' + game.slug">
+        <div class="game-image">
+            <img :src="require(`@/assets/images/${game.code}.jpg`)">
+        </div>
+    
         <div class="game-details">
             <h3>{{ game.name }}</h3>
-            <span>{{ game.creator }}</span>
         </div>
     </router-link>
 </template>
@@ -23,7 +22,25 @@ export default {
 <style scoped>
     .game-image{
         height: 350px;
-        background-color: rgba(34, 34, 51, 0.5)
+        transition: 0.5s all;
+    }
+
+    h3{
+        text-align: center;
+        display: block;
+        font-size: 22px;
+        opacity: 0;
+        visibility: hidden;
+        transition: 0.5s all;
+    }
+
+    a:hover .game-image{
+        background-color: rgba(34, 34, 51, 0.6);
+    }
+
+    a:hover h3{
+        visibility: visible;
+        opacity: 1;
     }
 
     .game-image img{
@@ -45,8 +62,4 @@ export default {
         width: fit-content;
     }
 
-    h3, span{
-        text-align: center;
-        display: block;
-    }
 </style>
