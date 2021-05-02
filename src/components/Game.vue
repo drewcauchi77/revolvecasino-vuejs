@@ -3,10 +3,12 @@
         <img :src="require(`@/assets/images/${game.code}.jpg`)">
     </div>
 
-    <div class="game-details">
-        <h3>{{ game.name }}</h3>
-        <span>{{ game.creator }}</span>
-    </div>
+    <router-link :to="'/casino/' + game.slug">
+        <div class="game-details">
+            <h3>{{ game.name }}</h3>
+            <span>{{ game.creator }}</span>
+        </div>
+    </router-link>
 </template>
 
 <script>

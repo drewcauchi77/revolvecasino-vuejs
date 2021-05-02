@@ -2,6 +2,7 @@
     "games": [
       {
         "id": "1",
+        "slug": "gonzos-quest",
         "name": "Gonzo's Quest",
         "code": "GME001",
         "creation_date": "28/04/2021",
@@ -9,6 +10,7 @@
       },
       {
         "id": "2",
+        "slug": "starburst",
         "name": "Starburst",
         "code": "GME002",
         "creation_date": "27/04/2021",
@@ -16,6 +18,7 @@
       },
       {
         "id": "3",
+        "slug": "a-star-is-born",
         "name": "A Star is Born",
         "code": "GME003",
         "creation_date": "28/04/2021",
@@ -23,6 +26,7 @@
       },
       {
         "id": "4",
+        "slug": "hotline",
         "name": "Hotline",
         "code": "GME004",
         "creation_date": "26/04/2021",
@@ -30,6 +34,7 @@
       },
       {
         "id": "5",
+        "slug": "sakura-fortune",
         "name": "Sakura Fortune",
         "code": "GME005",
         "creation_date": "25/04/2021",
@@ -37,6 +42,7 @@
       },
       {
         "id": "6",
+        "slug": "fortune-teller",
         "name": "Fortune Teller",
         "code": "GME006",
         "creation_date": "30/04/2021",
@@ -44,6 +50,7 @@
       },
       {
         "id": "7",
+        "slug": "rain-brew",
         "name": "Rain Brew",
         "code": "GME007",
         "creation_date": "03/04/2021",
@@ -51,6 +58,7 @@
       },
       {
         "id": "8",
+        "slug": "panther-queen",
         "name": "Panther Queen",
         "code": "GME008",
         "creation_date": "03/03/2021",
@@ -58,6 +66,7 @@
       },
       {
         "id": "9",
+        "slug": "queen-of-hearts",
         "name": "Queen of Hearts",
         "code": "GME009",
         "creation_date": "01/01/2020",
@@ -65,6 +74,7 @@
       },
       {
         "id": "10",
+        "slug": "kambrewballa",
         "name": "Kambrewballa",
         "code": "GME010",
         "creation_date": "04/04/2021",
@@ -72,6 +82,7 @@
       },
       {
         "id": "11",
+        "slug": "gem-rocks",
         "name": "Gem Rocks",
         "code": "GME011",
         "creation_date": "01/12/2020",
@@ -79,6 +90,7 @@
       },
       {
         "id": "12",
+        "slug": "wolf-gold",
         "name": "Wolf Gold",
         "code": "GME012",
         "creation_date": "27/02/2021",

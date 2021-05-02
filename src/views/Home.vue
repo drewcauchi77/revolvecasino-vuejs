@@ -21,7 +21,8 @@ export default {
     },
     methods: {
         async fetchGames() {
-            const res = await fetch('api/games')
+            const url = process.env.VUE_APP_ROOT_API
+            const res = await fetch(url)
             const data = await res.json()
             
             return data

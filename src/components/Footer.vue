@@ -3,6 +3,7 @@
         <div class="container">
             <nav>
                 <router-link to="/">Home</router-link>
+                <router-link to="/casino">Casino</router-link>
                 <router-link to="/about">About</router-link>
             </nav>
         </div>
@@ -18,7 +19,7 @@ export default {
 <style scoped>
     nav{
         display: grid;
-        grid-template-columns: repeat(2, 100px);
+        grid-template-columns: repeat(3, 100px);
         margin: 0 auto;
         text-align: center;
         width: fit-content;
@@ -26,5 +27,10 @@ export default {
 
     a{
         text-transform: uppercase;
+    }
+
+    .is-active{
+        text-decoration: underline;
+        font-weight: 600;
     }
 </style>
