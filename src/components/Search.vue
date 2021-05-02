@@ -15,3 +15,15 @@ export default {
     }
 }
 </script>
+
+<style scoped>
+    input{
+        outline: none;
+        background: transparent;
+        border: none;
+        border-bottom: 2px solid white;
+        margin-bottom: 30px;
+        padding: 10px 5px;
+        font-size: 16px;
+    }
+</style>
